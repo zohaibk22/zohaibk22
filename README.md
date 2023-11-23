@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am an up and coming Full Stack / Front end Software Engineer based in NYC
+Full Stack Software Engineer based in NYC
 
 
 ## Places to Reach Me:
